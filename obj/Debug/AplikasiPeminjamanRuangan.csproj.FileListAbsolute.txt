@@ -10,3 +10,16 @@ C:\Users\ROG-PC\Desktop\Aplikasi Peminjaman Ruangan\AplikasiPeminjamanRuangan\ob
 C:\Users\ROG-PC\Desktop\Aplikasi Peminjaman Ruangan\AplikasiPeminjamanRuangan\obj\Debug\AplikasiPeminjamanRuangan.pdb
 C:\Users\ROG-PC\Desktop\Aplikasi Peminjaman Ruangan\AplikasiPeminjamanRuangan\obj\Debug\AplikasiPeminjamanRuangan.Form2.resources
 C:\Users\ROG-PC\Desktop\Aplikasi Peminjaman Ruangan\AplikasiPeminjamanRuangan\obj\Debug\AplikasiPeminjamanRuangan.Form3.resources
+C:\Users\ROG-PC\Desktop\app ruangan\bin\Debug\AplikasiPeminjamanRuangan.exe.config
+C:\Users\ROG-PC\Desktop\app ruangan\bin\Debug\AplikasiPeminjamanRuangan.exe
+C:\Users\ROG-PC\Desktop\app ruangan\bin\Debug\AplikasiPeminjamanRuangan.pdb
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.csprojAssemblyReference.cache
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.Form1.resources
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.Form2.resources
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.Form3.resources
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.Properties.Resources.resources
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.csproj.GenerateResource.cache
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.csproj.CoreCompileInputs.cache
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.exe
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.pdb
+C:\Users\ROG-PC\Desktop\app ruangan\obj\Debug\AplikasiPeminjamanRuangan.Form4.resources

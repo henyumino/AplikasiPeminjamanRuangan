@@ -32,7 +32,7 @@ namespace AplikasiPeminjamanRuangan
 
             if(string.IsNullOrEmpty(textBox1.Text) || string.IsNullOrEmpty(textBox2.Text) || comboBox1.SelectedIndex == -1 || string.IsNullOrEmpty(textBox3.Text))
             {
-                MessageBox.Show("tidak bole kosong");
+                MessageBox.Show("tidak boleh kosong");
             }
             else
             {
